@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at [https://shaliniportfolio1.netlify.app/](https://shaliniportfolio1.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://shalini2909.github.io/)
 
 - 💬 Ask me about **JavaScript | HTML | CSS**
 
