@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <h1 align="center">Hi 👋, I'm Shalini</h1>
-<h3 align="center">A passionate frontend developer from India.</h3>
+<h3 align="center">A passionate Full Stack developer from India.</h3>
+<img src=''  alt='' />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shalini2909&label=Profile%20views&color=0e75b6&style=flat" alt="shalini2909" /> </p>
 
