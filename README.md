@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Shalini</h1>
 <h3 align="center">A passionate Full Stack developer from India.</h3>
+<p>Working to learn new things & improving my skills. Also want to be a contributor to impactful changes with some great codes.</p>
 <img src=''  alt='' />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shalini2909&label=Profile%20views&color=0e75b6&style=flat" alt="shalini2909" /> </p>
