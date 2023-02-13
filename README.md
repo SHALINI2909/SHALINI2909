@@ -13,8 +13,8 @@
 <img src="https://media1.giphy.com/media/NnxxxWP20tECpYHEyx/200w.gif?raw=true" width="70" />
 
 - 🧠 Callme: **_She/Her_** or **_TeamWorker_** 😊 <br>
-- 👨‍💻 My Portfolio - **[Shalini](https://shalini2909.github.io/)** <br>
-- 🤔 I use daily `**MERN**`, `.jsx (React js)`,`.js`,` .css`, `.html`
+- 👨‍💻 My Portfolio - https://shalini2909.github.io <br>
+- 🤔 I use daily **MERN**, `.jsx (React js)`,`.js`,` .css`, `.html`
 - 🛠  I’m currently learning about **Deep Learning**🥰<br>
 - 🌱 I’m looking to collaborate on: **Contribute more to Open Source projects.**
 - ⚡ I’m looking for help with anything **I am currently learning! 😅**.
@@ -120,7 +120,7 @@
 
  <br/>
  
-[![trophy](https://github-profile-trophy.vercel.app/?username=shalini2909)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=shalini2909)](https://github.com/ryo-ma/github-profile-trophy&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
 
 <hr clear="both">
 
