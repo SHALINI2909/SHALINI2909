@@ -2,20 +2,20 @@
 
 <h1 align="left" >Hey there <img src="https://github.com/talib789/talib789/blob/main/Images/Hi.gif?raw=true"  width="30" />, I'm Shalini </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=rgba(0, 0, 0, 0.87)&size=24&width=500&lines=Currently+Learning+Full-Stack+Web+Development;Nice+to+meet+you...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Currently+Learning+Full-Stack+Web+Development;Nice+to+meet+you..., Please Scroll down...)](https://git.io/typing-svg)
 <br>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shalini2909&label=Profile%20views&color=0e75b6&style=flat" alt="shalini2909" /> </p>
 <h4><samp><strong>You have finally discovered my Github profile. Please feel free  <br>  to clone/fork projects, raise issues and submit PRs if you think something could be better.</strong></samp></h4> 
 <h3><i>Happy Coding!</i> 😊</h3>
 <hr>
 
 <img src="https://github.com/talib789/talib789/blob/main/Images/line.gif?raw=true" width="30" />&nbsp;**_About me ...._**
-<img src="https://media1.giphy.com/media/NnxxxWP20tECpYHEyx/200w.gif?raw=true" width="70" />
+<img src="https://github.com/talib789/talib789/blob/main/Images/handshake.gif?raw=true" width="70" />
 
 - 🧠 Callme: **_She/Her_** or **_TeamWorker_** 😊 <br>
 - 👨‍💻 My Portfolio - **[Shalini](https://shalini2909.github.io/)** <br>
-- 🤔 I use daily `.jsx (React js)`,`.js`,` .css`, `.html`
-- 🛠 I’m currently learning about **Deep Learning**🥰<br>
+- 🤔 I use daily `**MERN**`, `.jsx (React js)`,`.js`,` .css`, `.html`
+- 🛠  I’m currently learning about **Deep Learning**🥰<br>
 - 🌱 I’m looking to collaborate on: **Contribute more to Open Source projects.**
 - ⚡ I’m looking for help with anything **I am currently learning! 😅**.
 - 💬 Ask me about anything, I am happy to help, **only if the ball is in my court!😉**<br>
@@ -26,7 +26,7 @@
  <hr>
 
 <img src="https://github.com/talib789/talib789/blob/main/Images/line.gif?raw=true" width="30" />&nbsp;**_Connect with me ...._**
-<img src="https://github.com/talib789/talib789/blob/main/Images/handshake.gif?raw=true" width="70" />
+<img src="https://media1.giphy.com/media/NnxxxWP20tECpYHEyx/200w.gif?raw=true" width="70" />
 
 <p>
   <a href="mailto:shalinipriya058@gmail.com">
