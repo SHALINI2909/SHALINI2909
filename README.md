@@ -119,8 +119,6 @@
 </span></a> </p>
 
  <br/>
- <p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=shalini2909&theme=chartreuse-dark" width="700px" /> </p>
- <br/>
  
 [![trophy](https://github-profile-trophy.vercel.app/?username=shalini2909)](https://github.com/ryo-ma/github-profile-trophy)
 
