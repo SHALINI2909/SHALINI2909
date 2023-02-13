@@ -37,7 +37,7 @@
     <img align="left" src="https://github.com/talib789/talib789/blob/main/Images/linked-in-alt.svg" width="28px" />
   </a>
   <a href="https://drive.google.com/file/d/1XO9FyowKmLTuypsozcJGVp4l222Z4zzg/view?usp=share_link">
-    <img align="left" src="./images/download.png" width="24px"  />
+    <img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr3CMUEAW-5tWn4x_4CFsnua4IeN2-_wlO5_Vui8-rrL-JQD6OyVeGWK9bJI1lTzV1HRY&usqp=CAU" width="24px"  />
   </a>
 </p>
 
@@ -123,7 +123,6 @@
  <br/>
  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SHALINI2909&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
-<hr clear="both">
 
 <hr clear="both">
 
