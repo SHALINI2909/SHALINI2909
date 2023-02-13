@@ -10,7 +10,7 @@
 <hr>
 
 <img src="https://github.com/talib789/talib789/blob/main/Images/line.gif?raw=true" width="30" />&nbsp;**_About me ...._**
-<img src="https://github.com/talib789/talib789/blob/main/Images/handshake.gif?raw=true" width="70" />
+<img src="https://media1.giphy.com/media/NnxxxWP20tECpYHEyx/200w.gif?raw=true" width="70" />
 
 - 🧠 Callme: **_She/Her_** or **_TeamWorker_** 😊 <br>
 - 👨‍💻 My Portfolio - **[Shalini](https://shalini2909.github.io/)** <br>
@@ -26,7 +26,8 @@
  <hr>
 
 <img src="https://github.com/talib789/talib789/blob/main/Images/line.gif?raw=true" width="30" />&nbsp;**_Connect with me ...._**
-<img src="https://media1.giphy.com/media/NnxxxWP20tECpYHEyx/200w.gif?raw=true" width="70" />
+<img src="https://github.com/talib789/talib789/blob/main/Images/handshake.gif?raw=true" width="70" />
+
 
 <p>
   <a href="mailto:shalinipriya058@gmail.com">
