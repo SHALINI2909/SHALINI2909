@@ -2,7 +2,7 @@
 
 <h1 align="left" >Hey there <img src="https://github.com/talib789/talib789/blob/main/Images/Hi.gif?raw=true"  width="30" />, I'm Shalini </h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Currently+Learning+Full-Stack+Web+Development;Nice+to+meet+you..., Please Scroll down...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=4cd964&size=24&width=500&lines=Full-Stack+Web+Developer;MERN+Stack+Developer;Nice+to+meet+you...Scroll+down+to+know+more+about+me)](https://git.io/typing-svg)
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shalini2909&label=Profile%20views&color=0e75b6&style=flat" alt="shalini2909" /> </p>
 <h4><samp><strong>You have finally discovered my Github profile. Please feel free  <br>  to clone/fork projects, raise issues and submit PRs if you think something could be better.</strong></samp></h4> 
