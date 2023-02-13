@@ -119,8 +119,7 @@
 </span></a> </p>
 
  <br/>
- 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shalini2909)](https://github.com/ryo-ma/github-profile-trophy&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true&align="center")
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shalini2909" alt="shalini2909" /></a> </p>
 
 <hr clear="both">
 
