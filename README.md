@@ -106,7 +106,7 @@
 <p>
 <a href="https://github.com/SHALINI2909"><span>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shalini2909&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=shalini2909&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="400px"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=SHALINI2909&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="400px"/>
 </span></a> </p>
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
