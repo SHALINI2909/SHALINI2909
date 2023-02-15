@@ -115,7 +115,7 @@
  <br/>
 <p align="center">
 <a href="https://github.com/SHALINI2909"><span>
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shalini2909&theme=dracula" />
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SHALINI2909&theme=dracula" />
 </span></a> </p>
 
  <br/>
