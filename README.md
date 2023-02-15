@@ -1,6 +1,6 @@
 <img src ="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif" align="right" width="300" height="300" />
 
-<h1 align="left" >Hey there <img src="https://github.com/talib789/talib789/blob/main/Images/Hi.gif?raw=true"  width="30" />, I'm Shalini </h1>
+<h1 align="left" >Hey there <img src="https://github.com/talib789/talib789/blob/main/Images/Hi.gif?raw=true"  width="30" />, I'm <span color=001747>Shalini</span> </h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=001747&size=24&width=500&lines=Full-Stack+Web+Developer!;MERN+Stack+Developer!;Nice+to+meet+you...scroll+down+Please!)](https://git.io/typing-svg)
 <br>
