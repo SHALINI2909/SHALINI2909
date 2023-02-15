@@ -47,7 +47,7 @@
 <br>
 
  <hr>
- <h4><img src="https://github.com/talib789/talib789/blob/main/Images/line.gif?raw=true" width="30" />&nbsp; Tech Stack..</h4>
+ <h4><img src="https://github.com/talib789/talib789/blob/main/Images/line.gif?raw=true" width="30" />&nbsp; Tech Stack...</h4>
 <p >
  <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
@@ -67,7 +67,7 @@
 </p>
 <hr>
 
-<h4><img src="https://github.com/talib789/talib789/blob/main/Images/line.gif?raw=true" width="30" />&nbsp;Tools | Use..</h4>
+<h4><img src="https://github.com/talib789/talib789/blob/main/Images/line.gif?raw=true" width="30" />&nbsp;Tools | Use...</h4>
 <p align="left">
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="canva" />
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode" />
