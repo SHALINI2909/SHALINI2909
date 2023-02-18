@@ -125,14 +125,13 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shalini2909&theme=dracula" alt="shalini2909" /></a> </p>
 
 <hr clear="both">
-<div display="flex>
-### ✍️ Random Dev Quote
+<div display="flex">
+              <h1>### ✍️ Random Dev Quote</h1>
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 <!-- <img src = 'https://cutewallpaper.org/cdn-cgi/mirage/2af0adefb1b7ebf6af3b94bf8b86378693ec8b55d34af727ac0cbb58dfd044f5/1280/26/best-looping-gifs-wallpaper/everybody-wants-to-build-and-nobody-wants-to-do-maintenance39-website-backgrounds-gif-background-motion-backgrounds.gif' alt = 'Awesome Matrix Code' align='right' height=180px width="300px"/> -->
 
 ### 😜Here's a Joke for you:
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-
+<div><img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /></div>
 </div>
 
 
