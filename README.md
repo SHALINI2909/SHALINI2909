@@ -122,7 +122,7 @@
 </span></a> </p>
 
  <br/>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shalini2909" alt="shalini2909" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shalini2909&theme=dracula" alt="shalini2909" /></a> </p>
 
 <hr clear="both">
 
