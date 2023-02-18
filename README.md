@@ -129,12 +129,12 @@
 <!-- <img src = 'https://cutewallpaper.org/cdn-cgi/mirage/2af0adefb1b7ebf6af3b94bf8b86378693ec8b55d34af727ac0cbb58dfd044f5/1280/26/best-looping-gifs-wallpaper/everybody-wants-to-build-and-nobody-wants-to-do-maintenance39-website-backgrounds-gif-background-motion-backgrounds.gif' alt = 'Awesome Matrix Code' align='right' height=180px width="300px"/> -->
 
 <div display="flex">
-<div align='right' height="auto width="40%" >
+<div align='right' height="auto" width="40%" >
 <h1>😜Here's a Joke for you:</h1>
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </div>
 
-<div align='left' height="auto width="50%" >
+<div align='left' height="auto" width="50%" >
 <h1>✍️ Random Dev... Quotes!</h1>
 <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight" />
 </div>
