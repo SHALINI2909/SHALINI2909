@@ -112,7 +112,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=SHALINI2909&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="400px"/>
 </span></a> </p>
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/>
 
 <hr clear="both">
  <br/>
